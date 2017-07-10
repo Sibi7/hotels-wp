@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ef76cba4-2dc3-407e-897e-ee0b7656f813" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="hotels.dev" />
+  </component>
+  <component name="FileColors">
+    <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
+    <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
+    <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
+    <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="view.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/why-hostel/views/view.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1378">
+              <caret line="53" column="24" lean-forward="false" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="view.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/about/views/view.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="view.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/apartament-page/views/view.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="598">
+              <caret line="23" column="44" lean-forward="false" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="view.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/apartaments/views/view.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="view.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/contact-page/views/view.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="10" column="27" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="view.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/contacts/views/view.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="728">
+              <caret line="24" column="10" lean-forward="false" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wp-config.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="28" column="32" lean-forward="false" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".htaccess" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.htaccess">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wp-activate.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-activate.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="26">
+              <caret line="1" column="3" lean-forward="true" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+              <folding>
+                <element signature="e#6#201#0#PHP" expanded="true" />
+                <marker date="1475001388000" expanded="true" signature="2808:2815" ph="..." />
+                <marker date="1475001388000" expanded="true" signature="2819:2826" ph="..." />
+                <marker date="1475001388000" expanded="true" signature="3475:3482" ph="..." />
+                <marker date="1475001388000" expanded="true" signature="3486:3493" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>img</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/apartaments/config.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/apartaments/options.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/reviews/config.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/welcome/config.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/reviews/options.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/reviews/views/view.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/stock/config.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hotels/js/form.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hotels/css/styles.min.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hotels/about.html" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/about-title/config.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hotels/template-parts/content-page.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/about/options.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/about/views/view.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/about/config.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/apartament-slider/config.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/apartament-slider/views/view.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hotels/our-apartments.html" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/apartaments/views/view.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/rostov/views/view.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/classic-tabs-apartament/views/view.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/classic-tabs-apartament/config.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/apartament-page/config.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/gallery/config.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hotels/galery.html" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/apartament-page/options.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/gallery/options.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/gallery/views/view.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/contacts/views/view.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hotels/contacts-page.html" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/contact-page/config.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/rostov/options.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/contact-page/options.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/contact-page/views/view.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/contacts/config.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hotels/footer.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hotels/header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hotels/js/validation.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hotels/js/script.min.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/apartament-page/views/view.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hotels/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hotels/js/common.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hotels/includes/custom-functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/why-hostel/views/view.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/welcome/views/view.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hotels/js/scroll-link.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/stock/views/view.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/head-baner/views/view.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/empty-shortcode/contacts/views/view.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/contacts/views/view.php" />
+        <option value="$PROJECT_DIR$/wp-config.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hotels.dev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hotels.dev" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dadoo" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\openserver\domains\hotels.dev\wp-content\themes\hotels\css\content" />
+      <recent name="C:\openserver\domains\hotels.dev\wp-content\themes\hotels\js" />
+      <recent name="C:\openserver\domains\hotels.dev\wp-content\themes\hotels" />
+      <recent name="C:\openserver\domains\hotels.dev\wp-content\themes\hotels\framework-customizations\extensions\shortcodes\shortcodes" />
+      <recent name="C:\openserver\domains\hotels.dev\wp-content\themes\hotels\framework-customizations\extensions" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\openserver\domains\hotels.dev\wp-content\themes\hotels\framework-customizations\extensions\shortcodes\shortcodes" />
+      <recent name="C:\openserver\domains\hotels.dev\wp-content\themes\hotels\css" />
+      <recent name="C:\openserver\domains\hotels.dev\wp-content\themes\hotels\framework-customizations\extensions\shortcodes" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef76cba4-2dc3-407e-897e-ee0b7656f813" name="Default" comment="" />
+      <created>1499159216923</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1499159216923</updated>
+      <workItem from="1499159218261" duration="4857000" />
+      <workItem from="1499165524781" duration="12009000" />
+      <workItem from="1499177682705" duration="191000" />
+      <workItem from="1499177968301" duration="2776000" />
+      <workItem from="1499191931695" duration="16000" />
+      <workItem from="1499197340715" duration="114000" />
+      <workItem from="1499243696401" duration="514000" />
+      <workItem from="1499248436585" duration="15489000" />
+      <workItem from="1499270572151" duration="7604000" />
+      <workItem from="1499283497559" duration="9654000" />
+      <workItem from="1499322192953" duration="8288000" />
+      <workItem from="1499333763494" duration="8558000" />
+      <workItem from="1499351971872" duration="1155000" />
+      <workItem from="1499405518805" duration="254000" />
+      <workItem from="1499405976791" duration="556000" />
+      <workItem from="1499410801842" duration="965000" />
+      <workItem from="1499412755557" duration="11042000" />
+      <workItem from="1499425702185" duration="370000" />
+      <workItem from="1499435024394" duration="662000" />
+      <workItem from="1499435864529" duration="2342000" />
+      <workItem from="1499598262016" duration="1000" />
+      <workItem from="1499598338602" duration="19000" />
+      <workItem from="1499695658245" duration="2333000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="89769000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25832438" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="WordPressConfiguration" enabled="true">
+    <wordpressPath>C:\openserver\domains\hotels.dev</wordpressPath>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/classic-tabs-apartament/views/view.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/classic-tabs-apartament/config.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/apartaments/options.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hotels/galery.html" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/apartament-page/config.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/apartament-page/options.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/gallery/config.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/gallery/views/view.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/gallery/options.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/contacts/views/view.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/gallery/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/hooks.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/hooks.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/hooks.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-156">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/apartament-page/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="10" column="54" lean-forward="true" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/about/options.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hotels/contacts-page.html" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/stock/options.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/rostov/options.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="10" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/contact-page/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="14" column="2" lean-forward="false" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/contact-page/options.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="36" column="58" lean-forward="false" selection-start-line="36" selection-start-column="58" selection-end-line="36" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/about/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="14" column="2" lean-forward="false" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/head-baner/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/contacts/views/view.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/contacts/config.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hotels/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hotels/js/script.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="3" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hotels/js/validation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2580">
+          <caret line="694" column="48" lean-forward="false" selection-start-line="694" selection-start-column="48" selection-end-line="694" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hotels/js/form.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="36" lean-forward="true" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hotels/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hotels/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="82" column="121" lean-forward="false" selection-start-line="82" selection-start-column="121" selection-end-line="82" selection-end-column="121" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hotels/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-388">
+          <caret line="51" column="16" lean-forward="true" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hotels/mail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="35" column="14" lean-forward="true" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hotels/template-parts/content-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hotels/includes/custom-functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="910">
+          <caret line="35" column="44" lean-forward="false" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hotels/js/scroll-link.js" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/head-baner/views/view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="754">
+          <caret line="29" column="53" lean-forward="false" selection-start-line="29" selection-start-column="53" selection-end-line="29" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hotels/css/styles.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/rostov/views/view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/stock/views/view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="22" column="14" lean-forward="false" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/welcome/views/view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="25" column="20" lean-forward="false" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/why-hostel/views/view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1378">
+          <caret line="53" column="24" lean-forward="false" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/about/views/view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/apartament-page/views/view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="23" column="44" lean-forward="false" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/apartaments/views/view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/contact-page/views/view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="27" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/hotels/framework-customizations/extensions/shortcodes/shortcodes/contacts/views/view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="728">
+          <caret line="24" column="10" lean-forward="false" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-activate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="3" lean-forward="true" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+          <folding>
+            <element signature="e#6#201#0#PHP" expanded="true" />
+            <marker date="1475001388000" expanded="true" signature="2808:2815" ph="..." />
+            <marker date="1475001388000" expanded="true" signature="2819:2826" ph="..." />
+            <marker date="1475001388000" expanded="true" signature="3475:3482" ph="..." />
+            <marker date="1475001388000" expanded="true" signature="3486:3493" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="28" column="32" lean-forward="false" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
